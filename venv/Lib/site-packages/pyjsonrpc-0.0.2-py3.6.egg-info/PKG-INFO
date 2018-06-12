@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: pyjsonrpc
+Version: 0.0.2
+Summary: AltSchool JSON-RPC compatibility library
+Home-page: http://github.com/AltSchool/pyjsonrpc
+Author: Jeremy Shute
+Author-email: j@altschool.com
+License: UNKNOWN
+Description: =========
+        pyjsonrpc
+        =========
+        
+        JSON-RPC compatibility library for Python 2.7+.
+        
+Platform: UNKNOWN
